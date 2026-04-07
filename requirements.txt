@@ -1,0 +1,8 @@
+aiohttp
+fastapi
+requests
+uvicorn
+unidecode
+six
+python-multipart
+inquirer
