@@ -1,0 +1,10 @@
+# VxParser - Vavoo IPTV Proxy
+vxparser/
+data/
+!vxparser/data/cache/
+!vxparser/data/lists/
+*.pyc
+__pycache__/
+.git/
+doc/
+dist/
